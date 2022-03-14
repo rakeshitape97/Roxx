@@ -1,3 +1,2 @@
-# Roxx
-This is my first repository.
-This is my first commit.
+I am practice how to clone the project in local machine.
+Also I am learning add, commit, push, clone, status, differtools, log
