@@ -11,11 +11,6 @@ public class Demo
 		System.out.println("This is php");
 		System.out.println("This is C++");
 		
-		System.out.println("Start Learning...");
-		System.out.println("Never Give Up...");
-		
-		System.out.println("Add this line at 16:55");
-		System.out.println("This is just for checking purpose");
 	}
 	public void m1()
 	{
