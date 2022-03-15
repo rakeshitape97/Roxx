@@ -8,8 +8,6 @@ public class Demo
 		System.out.println("This is Java");
 		System.out.println("This is Python");
 		System.out.println("This is C.");
-		System.out.println("This is php");
-		System.out.println("This is C++");
 	}
 
 }
