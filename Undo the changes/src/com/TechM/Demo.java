@@ -12,13 +12,10 @@ public class Demo
 		System.out.println("This is C++");
 		
 	}
-<<<<<<< HEAD
 	public void m1()
 	{
 			System.out.println("This is m1 method");
 			System.out.println("Want to Remove the method");
 	}
 
-=======
->>>>>>> 33fc9a160cc772d05703c7e41670ab7c223444f8
 }
