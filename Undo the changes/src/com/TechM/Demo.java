@@ -17,5 +17,9 @@ public class Demo
 		System.out.println("Add this line at 16:55");
 		System.out.println("This is just for checking purpose");
 	}
+	public void m1()
+	{
+			System.out.println("This is m1 method");
+	}
 
 }
